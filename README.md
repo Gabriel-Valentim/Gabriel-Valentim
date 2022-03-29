@@ -23,5 +23,4 @@
  
   
 </div>
-
-   ![Snake animation](https://github.com/Gabriel-Valentim/Gabriel-Valentim/blob/main/.github/workflows/cobrinha.svg)
+ ![Snake animation](https://github.com/Gabriel-Valentim/Gabriel-Valentim/blob/output/github-contribution-grid-snake.svg)
