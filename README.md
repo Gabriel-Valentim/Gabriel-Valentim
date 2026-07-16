@@ -1,6 +1,6 @@
 ### Olá Mundo ! 🙃
 
-### Engenheiro de IA e Machine Learning com experiência no desenvolvimento de soluções de IA Generativa, Machine Learning e Engenharia de Dados utilizando Python e AWS.
+### Engenheiro de IA e Machine Learning com experiência no desenvolvimento de soluções de IA Generativa, Machine Learning e Engenharia de Dados utilizando Python e AWS. Atuo na construção de aplicações escaláveis com Amazon Bedrock, LangChain, RAG, SageMaker e serviços serverless, sempre buscando transformar desafios de negócio em soluções inteligentes.
 
 <img align="right" alt="gabs-pato" height="100" src="https://c.tenor.com/S9BVMZq1Vq8AAAAC/duck-duck-dance.gif">
 
