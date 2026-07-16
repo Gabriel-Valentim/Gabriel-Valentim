@@ -1,6 +1,6 @@
 ### Olá Mundo ! 🙃
 
-### Engenheiro de IA e Machine Learning.
+### Engenheiro de IA e Machine Learning com experiência no desenvolvimento de soluções de IA Generativa, Machine Learning e Engenharia de Dados utilizando Python e AWS.
 
 <img align="right" alt="gabs-pato" height="100" src="https://c.tenor.com/S9BVMZq1Vq8AAAAC/duck-duck-dance.gif">
 
