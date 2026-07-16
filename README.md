@@ -1,5 +1,7 @@
 ### Olá Mundo ! 🙃
 
+### Engenheiro de IA e Machine Learning.
+
 <img align="right" alt="gabs-pato" height="100" src="https://c.tenor.com/S9BVMZq1Vq8AAAAC/duck-duck-dance.gif">
 
 #### Linguagens
